@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="FarmTechDesign" id="7CFC6072-F95B-675E-175A-3930E4D3DC0A" version="3.5">
+<createdBy>Fullonzero</createdBy>
+<createdTime>2025-04-11 02:05:03 UTC</createdTime>
+<ownerDesignName>FarmTechDesign</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>7CFC6072-F95B-675E-175A-3930E4D3DC0A</designId>
+</OSDM_Design>
